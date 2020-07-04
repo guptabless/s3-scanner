@@ -22,7 +22,6 @@ OPTIONS:
 ```
 -h             --help    
              	 < show the available options >
--n            valid bucket name (eg. testing)
+-n            valid bucket name or a txt file with bucket names (eg. testing)
   		< bucket name want to check >
 ```
-
